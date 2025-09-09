@@ -1,1 +1,2 @@
 # Mate
+studyMate – A Smart Learning Companion for Students StudyMate is a Python-based project designed to support students in their academic journey. It provides a user-friendly interface where learners can access study materials, quizzes, and interactive learning tools. Built with Python, the project focuses on simplifying complex topics and making study sessions more engaging and efficient. StudyMate aims to be the go-to digital assistant for students, helping them organize, learn, and track their progress with ease.
